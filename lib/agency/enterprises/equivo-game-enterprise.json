@@ -1,0 +1,22 @@
+{
+  "id": "equivo-game-enterprise",
+  "name": "Equivo Game Enterprise",
+  "kind": "micro-enterprise",
+  "head": "equivo-game-producer",
+  "offices": [
+    "equivo-game-producer"
+  ],
+  "charter": "A learning game with corpus-authored lessons, checkable actions and a useful review schedule.",
+  "assesses": {
+    "work": "cultivate-equivo",
+    "skill": "emsenn/services/561-group/services/operations-services-section/services/enterprise-operations-services-section/services/enterprise-media-operations-services-section/services/game-development-operations-services-section#coordinate-game-development"
+  },
+  "x-provenance": {
+    "recorded-on": "2026-10-25",
+    "basis": "Derived from the Leader's Sunday Funday game cultivation and operational service-sector direction; source definitions, not fabricated user quotations or runtime testimony.",
+    "source-state": "authored; no incumbent, worker, native admission, public release, player result or revenue is asserted by this record",
+    "catalog-id": "equivo",
+    "requirement-source": "https://github.com/causeway-services/public-media-services-section/blob/main/services/public-games-services-section/content/requirements/equivo-game-cultivation.json",
+    "first-cycle-source": "https://github.com/causeway-services/public-equivo-services-section/blob/main/README.md"
+  }
+}
