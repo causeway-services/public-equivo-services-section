@@ -6,3 +6,4 @@ web/js/vendor/
 
 public/
 public.report.json
+node_modules/
